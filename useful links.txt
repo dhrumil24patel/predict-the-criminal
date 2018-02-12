@@ -1,0 +1,12 @@
+blending script: 
+https://github.com/emanuele/kaggle_pbr/blob/master/blend.py
+
+nice article about ensembles:
+https://www.kdnuggets.com/2015/06/ensembles-kaggle-data-science-competition-p3.html
+
+kaggle ensembling guide:
+https://mlwave.com/kaggle-ensembling-guide/
+
+stacking, blending and stacked generalization:
+http://www.chioka.in/stacking-blending-and-stacked-generalization/
+https://github.com/log0/vertebral/blob/master/stacked_generalization.py
